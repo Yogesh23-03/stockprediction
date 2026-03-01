@@ -1,8 +1,9 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Button = () => {
   return (
-    <> <a href="" className="btn btn-outline-info">Login</a></>
+    <> <Link to="/login" className="btn btn-outline-info">Login</Link></>
   )
 }
 
