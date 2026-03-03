@@ -1,4 +1,5 @@
 import './assets/css/style.css'
+
 import Main3 from './components/Main3'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Register from './components/Register'
