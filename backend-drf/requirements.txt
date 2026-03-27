@@ -44,8 +44,8 @@ protobuf==4.23.3
 pycparser==2.21
 Pygments==2.19.2
 PyJWT==2.11.0
+python-dateutil==2.9.0.post0
 pyparsing==3.3.2
-python-dateutil==2.9.2
 python-decouple==3.8
 pytz==2025.2
 requests==2.32.5
